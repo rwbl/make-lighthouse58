@@ -26,7 +26,7 @@ The Lighthouse58 is controlled via
 * To explore, learn & share
 * To have fun
 
-_Note:_ Details to be found in the Lighthouse58 Concept (PDF).
+_Note:_ Details to be found in the Lighthouse58 Concept (lighthouse58.pdf).
 
 ## Functionality
 ### Lighthouse
