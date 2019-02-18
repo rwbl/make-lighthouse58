@@ -66,15 +66,15 @@ For communication between devices MQTT, including the TinkerForge Brick MQTT Pro
 ## Software
 * Browser Dashboard: developed with Node-RED - an open source visual programming tool by IBM.
 * The Node-RED addon Dashboard is used to control the Lighthouse58 via Browser.
+
 ![lighthouse58-d](https://user-images.githubusercontent.com/47274144/52942455-5578ad00-336b-11e9-9173-99d1547558fe.png)
 ![lighthouse58-w](https://user-images.githubusercontent.com/47274144/52942459-5578ad00-336b-11e9-877e-b5e522618a05.png)
 
-* Windows Client Dashboard: developed with B4J.
-* This solution uses the TinkerForge Brick MQTT Proxy and does not require Node-RED.
+#### Windows Client Dashboard: developed with B4J.
+* Uses the TinkerForge Brick MQTT Proxy and does not require Node-RED.
 
-* Browser Dashboard: developed with B4J.
-* This solution runs as a Server on the Control Unit, uses the TinkerForge Brick MQTT Proxy and does not require Node-RED, but requires Java.
-* See also this post on the B4J forum.
+#### Browser Dashboard: developed with B4J.
+* Runs as a Server on the Control Unit, uses the TinkerForge Brick MQTT Proxy and does not require Node-RED, but requires Java.
 * Responsive design using the w3.css framework.
 * Multiple clients can control the dashboard. The state of the controls is updated in the browser for each connected client.
 * Request Weather Information from Weather Underground and display in Dialog.
