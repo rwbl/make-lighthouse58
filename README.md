@@ -1,6 +1,10 @@
 # make_project_lighthouse58
 Internet of Things learning case based upon the LEGO ® Lighthouse Point 31051
 
+![lighthouse58-p](https://user-images.githubusercontent.com/47274144/52942457-5578ad00-336b-11e9-81a8-ed2c28b7a3a9.png)
+![lighthouse58-cu](https://user-images.githubusercontent.com/47274144/52942452-54e01680-336b-11e9-8a37-7a781b9bd089.png)
+![lighthouse58-c](https://user-images.githubusercontent.com/47274144/52942451-54e01680-336b-11e9-81fc-e89255de6044.png)
+
 # Summary
 Lighthouse58 is an Internet of Things learning case based upon the LEGO ® Lighthouse Point 31051 which build has been enhanced.
 Integrated are several objects with devices, e.g. Top Light, OLED display Weather Underground data, Motion Detector, Outdoor Light, Indoor Lights, Light Dimmers, Ambient Light, LED Status Indicators. The Control Unit hardware is a Raspberry Pi with TinkerForge Bricks & Bricklets.
@@ -63,6 +67,8 @@ For communication between devices MQTT, including the TinkerForge Brick MQTT Pro
 ## Software
 * Browser Dashboard: developed with Node-RED - an open source visual programming tool by IBM.
 * The Node-RED addon Dashboard is used to control the Lighthouse58 via Browser.
+![lighthouse58-d](https://user-images.githubusercontent.com/47274144/52942455-5578ad00-336b-11e9-9173-99d1547558fe.png)
+![lighthouse58-w](https://user-images.githubusercontent.com/47274144/52942459-5578ad00-336b-11e9-877e-b5e522618a05.png)
 
 * Windows Client Dashboard: developed with B4J.
 * This solution uses the TinkerForge Brick MQTT Proxy and does not require Node-RED.
@@ -79,6 +85,3 @@ For communication between devices MQTT, including the TinkerForge Brick MQTT Pro
 * Messaging based on MQTT using TinkerForge messages. No linkage with Node-RED, means the B4J solution runs without Node-RED.
 * Settings defined as a map stored in external settings file - the same file is used by the Windows Client.
 * Library TFMQTT is used to control the TinkerForge Bricklets. Libraries used: jcore,jserver,jrltfmqtt,jmqtt,json,jhttp,jstringutils,jkssh2.
-
-
-
