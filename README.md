@@ -16,9 +16,9 @@ The Lighthouse58 is controlled via
 # Objectives
 * To develop an IoT learning case
 * To control objects containing devices
-* An object is for example a house or a group of houses.
-* A device is for example a light, switch, servo motor, sensor (e.q. temperature, illuminance, contact, motion) or virtual (e.q. weather request).
-* Each device has a set of actions to control, e.g.light = on | off | state | blink(n).
+- An object is for example a house or a group of houses.
+- A device for example a light, switch, servo motor, sensor (e.q. temperature, illuminance, contact, motion) or virtual (e.q. weather request).
+- Each device has a set of actions to control, e.g.light = on | off | state | blink(n).
 * To experiment with hardware, sensors, software
 * To build objects with devices
 * To design a messaging concept
@@ -71,9 +71,10 @@ _Note:_ Details to be found in the Lighthouse58 Concept (lighthouse58.pdf).
 ![lighthouse58-w](https://user-images.githubusercontent.com/47274144/52942459-5578ad00-336b-11e9-877e-b5e522618a05.png)
 
 #### Windows Client Dashboard: developed with B4J.
+(requires installation of B4J and additional libraries - see B4J source).
 * Uses the TinkerForge Brick MQTT Proxy and does not require Node-RED.
-
 #### Browser Dashboard: developed with B4J.
+(Server B4J code (requires installation of B4J and additional libraries - see B4J source).
 * Runs as a Server on the Control Unit, uses the TinkerForge Brick MQTT Proxy and does not require Node-RED, but requires Java.
 * Responsive design using the w3.css framework.
 * Multiple clients can control the dashboard. The state of the controls is updated in the browser for each connected client.
