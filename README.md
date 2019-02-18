@@ -73,6 +73,11 @@ _Note:_ Details to be found in the Lighthouse58 Concept (lighthouse58.pdf).
 #### Windows Client Dashboard: developed with B4J.
 (requires installation of B4J and additional libraries - see B4J source).
 * Uses the TinkerForge Brick MQTT Proxy and does not require Node-RED.
+
+![lighthouse58-b4j-dashboard](https://user-images.githubusercontent.com/47274144/52943794-3596b880-336e-11e9-976c-60306811682b.png)
+
+![lighthouse58-b4j-dashboard-lighthouses](https://user-images.githubusercontent.com/47274144/52943795-3596b880-336e-11e9-9cb3-03e6defefcc6.png)
+
 #### Browser Dashboard: developed with B4J.
 (Server B4J code (requires installation of B4J and additional libraries - see B4J source).
 * Runs as a Server on the Control Unit, uses the TinkerForge Brick MQTT Proxy and does not require Node-RED, but requires Java.
