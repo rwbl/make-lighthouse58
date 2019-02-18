@@ -1,9 +1,4 @@
 # make_project_lighthouse58
-Internet of Things learning case based upon the LEGO ® Lighthouse Point 31051
-
-![lighthouse58-p](https://user-images.githubusercontent.com/47274144/52942457-5578ad00-336b-11e9-81a8-ed2c28b7a3a9.png)
-![lighthouse58-cu](https://user-images.githubusercontent.com/47274144/52942452-54e01680-336b-11e9-8a37-7a781b9bd089.png)
-![lighthouse58-c](https://user-images.githubusercontent.com/47274144/52942451-54e01680-336b-11e9-81fc-e89255de6044.png)
 
 # Summary
 Lighthouse58 is an Internet of Things learning case based upon the LEGO ® Lighthouse Point 31051 which build has been enhanced.
@@ -13,6 +8,10 @@ The Lighthouse58 is controlled via
 * Node-RED Browser Dashboard.
 * Windows Client (developed with B4J).
 * Browser Dashboard (multi client control) running as a Server (developed with B4J) on the Control Unit.
+
+![lighthouse58-p](https://user-images.githubusercontent.com/47274144/52942457-5578ad00-336b-11e9-81a8-ed2c28b7a3a9.png)
+![lighthouse58-cu](https://user-images.githubusercontent.com/47274144/52942452-54e01680-336b-11e9-8a37-7a781b9bd089.png)
+![lighthouse58-c](https://user-images.githubusercontent.com/47274144/52942451-54e01680-336b-11e9-81fc-e89255de6044.png)
 
 # Objectives
 * To develop an IoT learning case
