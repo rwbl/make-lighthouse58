@@ -90,3 +90,6 @@ _Note:_ Details to be found in the Lighthouse58 Concept (lighthouse58.pdf).
 * Messaging based on MQTT using TinkerForge messages. No linkage with Node-RED, means the B4J solution runs without Node-RED.
 * Settings defined as a map stored in external settings file - the same file is used by the Windows Client.
 * Library TFMQTT is used to control the TinkerForge Bricklets. Libraries used: jcore,jserver,jrltfmqtt,jmqtt,json,jhttp,jstringutils,jkssh2.
+
+![lighthouse58-b4j-dashboard-server](https://user-images.githubusercontent.com/47274144/52943860-5c54ef00-336e-11e9-9695-82d382c0e22b.png)
+
