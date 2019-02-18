@@ -26,7 +26,7 @@ The Lighthouse58 is controlled via
 * To explore, learn & share
 * To have fun
 
-Details to be found in the Lighthouse58 Concept (PDF).
+_Note:_ Details to be found in the Lighthouse58 Concept (PDF).
 
 ## Functionality
 ### Lighthouse
@@ -59,9 +59,9 @@ Details to be found in the Lighthouse58 Concept (PDF).
 ### MQTT Console
 * MQTT Console for the Windows Client listing the TinkerForge MQTT messages.
 
-## Resources
-This learning case uses a Raspberry Pi withTinkerForge Bricks and Bricklets connected.
-For communication between devices MQTT, including the TinkerForge Brick MQTT Proxy is used.
+## Hardware
+* Raspberry Pi with TinkerForge Master Bricks and Bricklets connected.
+* Communication between devices: TinkerForge Brick MQTT Proxy.
 
 ## Software
 * Browser Dashboard: developed with Node-RED - an open source visual programming tool by IBM.
