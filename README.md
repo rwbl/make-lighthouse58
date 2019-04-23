@@ -93,5 +93,8 @@ _Note:_ Details to be found in the Lighthouse58 Concept (lighthouse58.pdf).
 
 ![lighthouse58-b4j-dashboard-server](https://user-images.githubusercontent.com/47274144/52943860-5c54ef00-336e-11e9-9695-82d382c0e22b.png)
 
+#### Java
+The B4J application has been created for **personal use**  only. If planned for commercial use, ensure to comply to the [Oracle JDK License Agreement](https://www.oracle.com/technetwork/java/javase/terms/license/javase-license.html). 
+
 ## Soure Code
 The source code and required libraries can be found in lighthouse58 zip archives. The code is well documented.
