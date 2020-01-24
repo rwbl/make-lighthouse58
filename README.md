@@ -1,10 +1,10 @@
-# make_project_lighthouse58
+# make_lighthouse58
 
 # Summary
-Lighthouse58 is an Internet of Things learning case based upon the LEGO ® Lighthouse Point 31051 which build has been enhanced.
+This make project **Lighthouse58** is an Internet of Things learning case based upon the LEGO ® Lighthouse Point 31051 which build has been enhanced.
 Integrated are several objects with devices, e.g. Top Light, OLED display Weather Underground data, Motion Detector, Outdoor Light, Indoor Lights, Light Dimmers, Ambient Light, LED Status Indicators. The Control Unit hardware is a Raspberry Pi with TinkerForge Bricks & Bricklets.
 
-The Lighthouse58 is controlled via
+Lighthouse58 is controlled via
 * Node-RED Browser Dashboard.
 * Windows Client (developed with B4J).
 * Browser Dashboard (multi client control) running as a Server (developed with B4J) on the Control Unit.
